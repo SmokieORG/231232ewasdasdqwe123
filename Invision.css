@@ -1,0 +1,11 @@
+/**
+ * @name Invision
+ * @description Invision theme for BetterDiscord
+ * @author Kira.
+ * @version 1.0.5
+ * @authorId 263582983175274496
+**/
+@import url();
+:root {
+	--main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
